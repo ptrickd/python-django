@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     #own apps
     'pages',
     'products',
+    'blog',
 
 ]
 
